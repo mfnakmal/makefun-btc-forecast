@@ -1,0 +1,7 @@
+{
+  "name": "makefun-btc-forecast",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bitcoin 4-Hour Price Forecaster - make.fun btc-cent-forecast-01 submission by mfnakmal",
+  "license": "MIT"
+}
